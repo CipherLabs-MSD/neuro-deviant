@@ -1,0 +1,38 @@
+Genväg: Boken
+Projektbacken för boken. En knapp, samma rum varje gång.
+
+Förbered en gång
+    en anteckning som heter Neurodeviants
+    ett Fokus som heter Skriv
+        tystar det som inte hör till skrivandet
+
+Bygg i appen Genvägar
+    ny genväg
+    namn: Boken
+
+Åtgärder, i den här ordningen
+    Ställ in fokus
+        Skriv
+        på, tills genvägen stängs av eller du väljer av
+    Starta timer
+        25 minuter
+    Visa anteckning
+        Neurodeviants
+
+På hemskärmen
+    dela genvägen till hemskärmen
+    lägg den i mappen Projekt
+
+Avslut, egen genväg: Spara en mening
+    Fråga efter inmatning
+        En mening att spara?
+    Lägg till i anteckning
+        Neurodeviants
+        texten först, så den senaste insikten ligger överst
+    Ställ in fokus
+        Stäng av
+
+Varför två knappar
+    en genväg kan inte vänta på timern och sedan vakna av sig själv
+    Boken drar fram backen
+    Spara en mening ställer undan den
